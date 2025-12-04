@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 from matplotlib.widgets import Slider, Button
 
-# --- Data from User's Image (remains constant) ---
+# --- Data from Experiment open loop readings  ---
 log_f_exp = np.array([
     2.0, 2.30103, 2.47712, 2.60206, 2.69897, 2.77815, 2.84510,
     2.90309, 2.95424, 3.0, 3.09691, 3.17609, 3.24304, 3.30103,
